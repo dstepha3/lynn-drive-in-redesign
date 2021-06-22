@@ -110,7 +110,7 @@ body h3.now-showing-page {
 }
 
 .marquee {
-    background-image: url(/img/Marquee.jpg);
+    background-image: url("img/Marquee.jpg");
     background-repeat: no-repeat;
     height: 88%;
     position: relative;
@@ -245,7 +245,7 @@ body h3.now-showing-page {
 
 .prices-page {
     position: relative;
-    background-image: url(/img/admission-img2.jpg);
+    background-image: url("img/admission-img2.jpg");
     width: 100%;
     height: 690px;
     margin-top: 40px;
