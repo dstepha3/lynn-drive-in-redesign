@@ -1,4 +1,4 @@
-## Lynn-Drive-In-Movies-Redesign
+# Lynn-Drive-In-Movies-Redesign
 
 Redesign of Lynn Drive In Movie Theater website. The Original can be found [here.](https://www.lynndrivein.com/)
 
